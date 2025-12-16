@@ -5,6 +5,8 @@ export default function Home() {
     <div>
       <h1 className="text-4xl">Home Page</h1>
       <Link href="/about">About</Link>
+      <br />
+      <Link href="/plants">Plants</Link>
     </div>
   );
 }

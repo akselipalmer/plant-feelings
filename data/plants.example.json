@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Monstera", "feeling": "Happy" },
+  { "id": 2, "name": "Snake Plant", "feeling": "Calm" },
+  { "id": 3, "name": "Pothos", "feeling": "Energetic" },
+  { "id": 4, "name": "Fiddle Leaf Fig", "feeling": "Confident" },
+  { "id": 5, "name": "Peace Lily", "feeling": "Serene" },
+  { "id": 6, "name": "Succulent", "feeling": "Content" }
+]
